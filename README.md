@@ -22,7 +22,7 @@ A simple calculator app built in **Android Studio** using **Java**. This app all
 ## **How to Run**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/BenKapag/Calculator-App-Android-Studio.git
+   git clone https://github.com/BenKapag/androidStudioCalculator
 2. Open the project in Android Studio.
 3. Sync Gradle to install dependencies.
 4. Build and run the app on an emulator or a physical device.
